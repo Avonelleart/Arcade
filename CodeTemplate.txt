@@ -9,7 +9,7 @@ CODE TEMPLATE:
 if (stamina is low while climbing) {
     //find ledge to stand on
 } else {
-    if(no ledge is near) {
+    if (no ledge is near) {
     //jump and fly down
 } else {
     //fall
