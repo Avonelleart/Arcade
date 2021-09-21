@@ -4,24 +4,31 @@ CODE TEMPLATE:
 
 //CHANGE ME: Add the title of your game
 //CHANGE ME: Add your name
+//Genshin Impact
+//Iliana Mallard 
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (stamina is low while climbing) {
+    //find ledge to stand on
 } else {
-    //Add event below
+    if(no ledge is near) {
+    //jump and fly down
+} else {
+    //fall
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (character is low on health) {
+    //switch character using keyboard numbers 1-4
 } else {
-    //Add event below
+    //character dies and automatically switches to different character
+} else {
+    //increase health with food
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (hold down aim button for pyro archer) {
+    //high damage
 } else {
-    //Add event below
+    //set fire to environment
 }
 
 
