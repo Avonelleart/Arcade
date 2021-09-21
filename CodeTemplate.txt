@@ -7,26 +7,26 @@ CODE TEMPLATE:
 
 
 if (stamina is low while climbing) {
-    //find ledge to stand on
+    find ledge to stand on;
 } else {
     if (no ledge is near) {
-    //jump and fly down
+    jump and fly down;
 } else {
-    //fall
+    fall;
 }
 
 if (character is low on health) {
-    //switch character using keyboard numbers 1-4
+    switch character using keyboard numbers 1-4;
 } else {
-    //character dies and automatically switches to different character
+    character dies and automatically switches to different character;
 } else {
-    //increase health with food
+    increase health with food;
 }
 
 if (hold down aim button for pyro archer) {
-    //high damage
+    high damage;
 } else {
-    //set fire to environment
+    set fire to environment;
 }
 
 
